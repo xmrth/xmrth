@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # XMRth
 公告板网址：[公告板1](https://xmrth1.net) | [公告板2](https://www.xmrth.net) | [Github备用](https://github.com/xmrth/xmrth "Github地址") | 登录入口经常换，但公告板网址永不变且国内直连，务必收藏！
 <br>如需联系客服，请到公告板右下角点客服头像留言
