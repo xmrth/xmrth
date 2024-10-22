@@ -6,5 +6,5 @@
 
 ## 登录入口：
 - ⚡国内直连入口[默认]：[xmrth.lol](https://www.xmrth.lol/)
-- ⚡国内直连入口[备用]：[点击跳转](https://www.xmrth.cloud/)
+- ⚡国内直连入口[备用]：[点击跳转](https://www.xmrth.online/)
 - ✨永久入口③：[xmrth.com](https://www.xmrth.com/) (需翻墙)
